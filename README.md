@@ -22,3 +22,7 @@ Jiawei21:
 
 Yoonhee Park & Cheerie Lee :
 User Registration, Trainer Registration , Plan Purchase 
+
+
+JunxueChen
+comment trainerRank 
